@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpaperaccess.com/full/1287706.png)
 
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-- 🌱 I’m currently learning **Computer Vision, Python**
+- 🌱 I’m currently learning **Computer Vision, Python, OpenCV**
 
 - 📫 How to reach me **mehmettkomur@gmail.com**
 
